@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]  
+# Hi there 👋 I'm Amirhossein
 
 ### 🚀 Flutter Developer | Mobile App Enthusiast  
 
@@ -8,7 +8,7 @@ I specialize in building elegant, performant, and responsive mobile applications
 
 ### 🛠️ Tech Stack  
 
-- **Languages:** Dart, Kotlin, Swift, Java, C++  
+- **Languages:** Dart 
 - **Frameworks:** Flutter, Firebase, Bloc, Provider  
 - **Tools:** Android Studio, Visual Studio Code, Git, Postman  
 - **Others:** RESTful APIs, GraphQL, CI/CD, Unit Testing  
@@ -17,8 +17,8 @@ I specialize in building elegant, performant, and responsive mobile applications
 
 ### 📈 Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirhosseinBaghi&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinBaghi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -26,7 +26,7 @@ I specialize in building elegant, performant, and responsive mobile applications
 
 - **[App Name]** - A productivity tool built with Flutter.  
 - **[App Name]** - E-commerce mobile app powered by Firebase.  
-- Check out my projects [here](https://github.com/yourusername?tab=repositories)!  
+- Check out my projects [here](https://github.com/AmirhosseinBaghi?tab=repositories)!  
 
 ---
 
